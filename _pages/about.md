@@ -13,6 +13,7 @@ My interests lie in 3d reconstruction from multi-view stereo, self-supervised im
 
 Projects
 =====
+
 Depth completion
 ------
 TBD
