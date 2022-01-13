@@ -27,4 +27,3 @@ Li, Z., **Zhang, X**., Wang, K., Jiang, H., & Wang, Z. (2021). [High accuracy an
 **Video Stabilization**
 
 Following [Meshflow](http://www.liushuaicheng.org/eccv2016/) we implement an online and offline video stabilization system. 
-#![demo](/images/meshflow.gif)
