@@ -14,7 +14,7 @@ My interests lie in 3d reconstruction from multi-view stereo, self-supervised im
 Projects
 =====
 Depth completion
------
+------
 TBD
 
 Confidence prediction for Multi-view Stereo
@@ -24,7 +24,7 @@ In this work, we propose a Geometry-consistent Confidence prediction Network (Ge
 Paper: [High accuracy and geometry-consistent confidence prediction network for multi-view stereo.](https://www.sciencedirect.com/science/article/pii/S0097849321000625?casa_token=ylftycDNFN4AAAAA:GpE_FzwP89O_2i21w1LU5L_jPnwQVIx6SZdTPnvITqZEmqRyKJ5Jz0HdggZMUyWD4frgRFfoefw), Li, Z., **Zhang, X**., Wang, K., Jiang, H., & Wang, Z. (2021).
 
 Camera Calibration for spherical panoramic camera
------
+------
 TBD
 
 Video Stabilization
