@@ -12,7 +12,8 @@ I am a Master's student at [VR Lab](http://vr.ict.ac.cn/), at the [Institue of C
 My interests lie in 3d reconstruction from multi-view stereo, self-supervised image inpainting.
 
 Projects
------
+====
+
 **Depth completion**
 
 TBD
@@ -29,6 +30,7 @@ Paper: [High accuracy and geometry-consistent confidence prediction network for 
 
 TBD
 
+-----
 **Video Stabilization**
 
 Following [Meshflow](http://www.liushuaicheng.org/eccv2016/) we implement an online and offline video stabilization system. 
