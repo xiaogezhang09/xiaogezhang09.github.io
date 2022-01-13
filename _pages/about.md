@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master student at VR Lab, at the Institue of Computing Technology, Chinese Academy of Sciences. Prior to that, I received my Bachelor's in Remote Sensing in Wuhan University. 
+I am a Master's student at VR Lab, at the Institue of Computing Technology, Chinese Academy of Sciences. Prior to that, I graduated from Wuhan University with a bachlor's degree in Remote Sensing Science and Technology, majored in Photogrammetry. 
 
 My interests lie in 3d reconstruction from multi-view stereo, self-supervised image inpainting.
 
