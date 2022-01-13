@@ -14,12 +14,10 @@ My interests lie in 3d reconstruction from multi-view stereo, self-supervised im
 Projects
 =====
 
-Depth completion
-------
+**Depth completion**
 TBD
 
-Confidence prediction for Multi-view Stereo
-------
+**Confidence prediction for Multi-view Stereo**
 In this work, we propose a Geometry-consistent Confidence prediction Network (GeoConfNet), where the correctness of a depth hypothesis is accurately predicted via a deep neural network that explores both spatial coherence and cross-view consistency. The proposed deep network consists of a feature extraction module, a U-Net-based fusion module and a confidence refinement module. Furthermore, we demonstrate that truncated signed distance field (TSDF) is a powerful cross-view feature which can be an effective complement to spatial features, thereby remarkably boosting confidence prediction accuracy of MVS.
 
 Paper: [High accuracy and geometry-consistent confidence prediction network for multi-view stereo.](https://www.sciencedirect.com/science/article/pii/S0097849321000625?casa_token=ylftycDNFN4AAAAA:GpE_FzwP89O_2i21w1LU5L_jPnwQVIx6SZdTPnvITqZEmqRyKJ5Jz0HdggZMUyWD4frgRFfoefw), Li, Z., **Zhang, X**., Wang, K., Jiang, H., & Wang, Z. (2021).
