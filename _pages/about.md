@@ -19,7 +19,7 @@ Projects
 
 TBD
 
-====
+-----
 **Confidence prediction for Multi-view Stereo**
 
 In this work, we propose a Geometry-consistent Confidence prediction Network (GeoConfNet), where the correctness of a depth hypothesis is accurately predicted via a deep neural network that explores both spatial coherence and cross-view consistency. The proposed deep network consists of a feature extraction module, a U-Net-based fusion module and a confidence refinement module. Furthermore, we demonstrate that truncated signed distance field (TSDF) is a powerful cross-view feature which can be an effective complement to spatial features, thereby remarkably boosting confidence prediction accuracy of MVS.
