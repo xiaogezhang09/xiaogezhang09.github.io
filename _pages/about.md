@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student at VR Lab, at the Institue of Computing Technology, Chinese Academy of Sciences. Prior to that, I graduated from Wuhan University with a bachlor's degree in Remote Sensing Science and Technology, majored in Photogrammetry. 
+I am a Master's student at [VR Lab](http://vr.ict.ac.cn/), at the [Institue of Computing Technology](http://english.ict.cas.cn/), [Chinese Academy of Sciences](https://english.cas.cn/). Prior to that, I graduated from [Wuhan University](https://en.whu.edu.cn/) with a bachlor's degree in Remote Sensing, and majored in Photogrammetry. 
 
 My interests lie in 3d reconstruction from multi-view stereo, self-supervised image inpainting.
 
